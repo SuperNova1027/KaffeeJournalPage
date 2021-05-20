@@ -36,22 +36,22 @@ features                                  :
 
   - title                                 : Change Number of Serves
     description                           : One button clicks to change the number of serves in recipe.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : sliders-h
     
   - title                                 : Adjust Ingredients Quantities
-    description                           : Instantly show all adjusted ingredients quantities in recipe
+    description                           : Instantly show all adjusted ingredients quantities in recipe.
     fontawesome_icon_name                 : magic
 
   - title                                 : Recipe Details with Photo, etc.
     description                           : Store recipes with Photo, Rating, Easiness, etc.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Ingredient Units
     description                           : Ingredient supports standard metric units (US units will be supported in future release).
     fontawesome_icon_name                 : sync
 
   - title                                 : Other Features
-    description                           : Dark Mode support. Optimized for iPhone 11 and SE2
+    description                           : Dark Mode support. Optimized for iPhone 11 and SE2.
     fontawesome_icon_name                 : star
   
   - title                                 : # New Feature Title
