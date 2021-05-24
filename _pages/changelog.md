@@ -12,7 +12,7 @@ include_in_header: true
 
 #### What's New
 - Support long ingredient names (up to 25 letters).
-  - Previous version only supports 10 letters
+  - Previous version only supports up to 10 letters.
 - Display cook time and notes on Recipe Details screen.
 
 #### Bug Fixes
@@ -28,14 +28,14 @@ ________
 
 #### Major features:
 
-- One button clicks to change the number of serves in recipe
-- Instantly show all adjusted ingredients quantities in recipe
+- One button clicks to change the number of serves in recipe.
+- Instantly show all adjusted ingredients quantities in recipe.
 - Store recipes with Photo, Rating, Easiness, etc.
-- Ingredient supports standard metric units (US units will be supported in future release)
+- Ingredient supports standard metric units (US units will be supported in future release).
 
 #### Other features
-- Dark Mode support
-- Optimized for iPhone 11 and SE2
+- Dark Mode support.
+- Optimized for iPhone 11 and SE2.
 
 <br>
 
