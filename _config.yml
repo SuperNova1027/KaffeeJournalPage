@@ -2,17 +2,17 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1530894697                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6745466738                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://supernova1027.github.io/ChefScalerPage/                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://supernova1027.github.io/KaffeeJournalPage/                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Scale your recipes with ease.
+app_description                           : Keep track of your coffees.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,24 +34,20 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Change Number of Serves
-    description                           : One button clicks to change the number of serves in recipe.
+  - title                                 : Create Coffee Records
+    description                           : Record coffee with phtoto and details such as aroma, acidity, rating, etc.
     fontawesome_icon_name                 : sliders-h
     
-  - title                                 : Adjust Ingredients Quantities
-    description                           : Instantly show all adjusted ingredients quantities in recipe.
+  - title                                 : Search Coffee Records
+    description                           : Search coffee with name, origin, and store location.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Recipe Details with Photo, etc.
-    description                           : Store recipes with Photo, Rating, Easiness, etc.
+  - title                                 : Sort Coffee Records
+    description                           : Sort coffee by name or rating.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : Ingredient Units
-    description                           : Ingredient supports standard metric units (US units will be supported in future release).
-    fontawesome_icon_name                 : sync
-
   - title                                 : Other Features
-    description                           : Dark Mode support. Optimized for iPhone 11 and SE2.
+    description                           : Optimized for iPhone 16 Pro and iOS 18.
     fontawesome_icon_name                 : star
   
   - title                                 : # New Feature Title
